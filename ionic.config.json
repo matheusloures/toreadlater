@@ -1,0 +1,7 @@
+{
+  "name": "pracagar",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
